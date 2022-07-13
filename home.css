@@ -21,7 +21,8 @@
     top: 20%;
     left: 25%;
     display: inline-block;
-    width: 100%;
+    width: 50%;
+	
 
 }
 
@@ -71,10 +72,10 @@
     height: 160px;
     border: solid thin red;
 }
-
+.item-left{display: inline-block;}
 .item-right{
     display: inline-block;
-    width: 50px;
+    width: 50%;
     vertical-align: top;
     padding-left: 10px;
     padding-top: 25px;
