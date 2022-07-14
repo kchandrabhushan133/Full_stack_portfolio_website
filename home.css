@@ -66,10 +66,11 @@
 }
 
 .item{
-    display: block;
+    display: inline-block;
     width: 360px;
     height: 160px;
     border: solid thin red;
+    margin-left: 1px;
 
 }
 
